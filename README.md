@@ -1,9 +1,9 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
-      To pick and place a regular shape using two finger gripper on the conveyor belt 
+   To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
-      Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
+   Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
       
 ### Theory: 
 
@@ -79,20 +79,6 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -100,16 +86,23 @@ and click on the connect icon
 
 ### output video and screen shots of pick and place 
 
+![r11](https://user-images.githubusercontent.com/93427278/203122244-5d5f6bc0-c769-49e2-9e8a-faf677c2ba42.jpg)
 
+![r12](https://user-images.githubusercontent.com/93427278/203122259-9330c058-0f90-4cbb-9288-6e2979e0e721.jpg)
 
+![r13](https://user-images.githubusercontent.com/93427278/203122275-c62d3462-efc0-4661-8d4d-73961cc7b6cc.jpg)
 
+### Robot Action:
 
+![r14](https://user-images.githubusercontent.com/93427278/203122325-e56779d7-79ac-4d22-98e6-df689ab35162.jpg)
 
+![r15](https://user-images.githubusercontent.com/93427278/203122360-618f45fd-bf5d-4975-9e36-505ae27a19d7.jpg)
+![r16](https://user-images.githubusercontent.com/93427278/203122404-b5e857b8-5059-4417-a4c9-28471a4e8a11.jpg)
 
 ### Results: 
 
 
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
